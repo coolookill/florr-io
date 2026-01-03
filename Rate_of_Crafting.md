@@ -40,7 +40,7 @@ f[i][j] : the probability of transitioning from i petals to j petals after one a
 
 ## Usages
 
-1. 40 Ultra Petals -> 1 Super Petal (p=0.01, r=4)
+1. 40 Ultra Petals -> 1 Super Petal (p=0.01)
 
 input :
 ```cpp
@@ -52,7 +52,7 @@ output :
 0.1298
 ```
 
-2. 200 Mythic Petals -> 0 Ultra Petals (p=0.02, r=5)
+2. 200 Mythic Petals -> 0 Ultra Petals (p=0.02)
 
 input :
 ```cpp
