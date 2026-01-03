@@ -61,7 +61,7 @@ input :
 
 output :
 ```cpp
-0.1298
+0.20418
 ```
 
 In short, it is common to get unexpected results.
