@@ -37,3 +37,33 @@ p : the success probability per crafting attempt.
 t : the number of decimal places to retain in calculations.
 
 f[i][j] : the probability of transitioning from i petals to j petals after one attempt.
+
+## Usages
+
+1. 40 Ultra Petals -> 1 Super Petals (p=0.01, r=4)
+
+input :
+```cpp
+40 1 0.01 4
+```
+
+output :
+```cpp
+0.1298
+```
+
+2. 200 Mythic Petals -> 0 Ultra Petals (p=0.02, r=5)
+
+input :
+```cpp
+200 1 0.02 5
+```
+
+output :
+```cpp
+0.1298
+```
+
+In short, it is common to get unexpected results.
+
+So ~~use oracle~~ don't be discouraged when you failed.
