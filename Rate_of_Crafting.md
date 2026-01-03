@@ -66,4 +66,4 @@ output :
 
 In short, it is common to get unexpected results.
 
-So ~~use oracle~~ don't be discouraged when you failed.
+So ~~use oracle!~~ don't be discouraged when you failed.
