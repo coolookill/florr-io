@@ -3,7 +3,7 @@ Within florr.io, crafting is the art that turns collection into control and chan
 
 Every failed craft carries the quiet ache of wasted petals, while each success blooms with rare delight—reminding players that careful calculation is not caution, but wisdom.
 
-~~If you got a Super Petal from 5 Ultra Petals, you are gay!!!~~
+~~If you get a Super Petal from 5 Ultra Petals, you must be a gay!!!~~
 
 Here is the code.
 
