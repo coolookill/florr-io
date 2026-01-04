@@ -56,7 +56,7 @@ output :
 
 input :
 ```cpp
-200 1 0.02 5
+200 0 0.02 5
 ```
 
 output :
